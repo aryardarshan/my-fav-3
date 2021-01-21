@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(yellow,blue,orange,purple)
+}
+#img1{
+    border-radius: 73px;
+}
+#img2{
+    border-radius: 100px;
+}
